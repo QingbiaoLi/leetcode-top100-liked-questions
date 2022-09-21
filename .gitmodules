@@ -1,0 +1,3 @@
+[submodule "LeetCodeFighter"]
+	path = LeetCodeFighter
+	url = git@github.com:QingbiaoLi/LeetCodeFighter.git
